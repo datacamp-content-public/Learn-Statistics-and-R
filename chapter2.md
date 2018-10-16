@@ -27,5 +27,77 @@ Like functions you are familiar with from algebra, functions in R take a number 
 
 `@pre_exercise_code`
 ```{r}
+store.sales 
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: e515019e75
+xp: 50
+```
+
+`@instructions`
+Like functions you are familiar with from algebra, functions in R take a number of inputs and produce a single output—in R, the output can be a single number, a list of numbers, or even more complicated structures. 
+
+To see a list of the variable names in this data set, apply the names function to the store.sales data set. Also try just typing store.sales to see the whole data set.
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
 store.sales
+```
+
+`@sct`
+```{r}
+You got it!
+```
+
+***
+
+```yaml
+type: MultipleChoiceExercise
+key: d1d64f8815
+xp: 50
+```
+
+`@question`
+Like functions you are familiar with from algebra, functions in R take a number of inputs and produce a single output—in R, the output can be a single number, a list of numbers, or even more complicated structures. 
+
+To see a list of the variable names in this data set, apply the names function to the store.sales data set. Also try just typing store.sales to see the whole data set.
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@sct`
+```{r}
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 570f1a4417
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{r}
+
 ```
