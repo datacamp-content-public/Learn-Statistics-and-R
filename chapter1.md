@@ -114,7 +114,7 @@ In R, you can refer to a variable in a data set by typing the name of the data s
 Like functions you are familiar with from algebra, functions in R take a number of inputs and produce a single output—in R, the output can be a single number, a list of numbers, or even more complicated structures. To see a list of the variable names in this data set, apply the names function to the store.sales data set. Also try just typing store.sales to see the whole data set.
 
 `@hint`
-
+Type the name of dataset
 
 `@sample_code`
 ```{r}
@@ -123,10 +123,10 @@ Like functions you are familiar with from algebra, functions in R take a number 
 
 `@solution`
 ```{r}
-
+store.sales
 ```
 
 `@sct`
 ```{r}
-
+You got it!
 ```
