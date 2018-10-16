@@ -63,13 +63,15 @@ success_msg("Good job! You got it!")
 
 ---
 
-## Not an Exercise
+## Insert exercise title here
 
 ```yaml
 type: TabExercise
-key: 8e6cbc6c1b
+key: 7d68ae2409
 xp: 100
 ```
+
+**Histogram**
 
 The most common method for visualizing distributions is the histogram. A histogram is a special kind of bar chart: in a histogram, the range of the variable is divided into equally-sized “bins” and each bin is given a bar with a height that corresponds to the number of values in that bin.
 
@@ -84,35 +86,6 @@ In R, you can refer to a variable in a data set by typing the name of the data s
 Like functions you are familiar with from algebra, functions in R take a number of inputs and produce a single output—in R, the output can be a single number, a list of numbers, or even more complicated structures. To see a list of the variable names in this data set, apply the names function to the store.sales data set. Also try just typing store.sales to see the whole data set.
 
 `@pre_exercise_code`
-```{r}
-
-```
-
-***
-
-```yaml
-type: NormalExercise
-key: 3f56422d25
-xp: 100
-```
-
-`@instructions`
-
-
-`@hint`
-
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
 ```{r}
 
 ```
