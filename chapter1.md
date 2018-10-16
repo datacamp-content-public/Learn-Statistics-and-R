@@ -71,7 +71,7 @@ key: 8e6cbc6c1b
 xp: 100
 ```
 
-**Histogram**
+
 
 The most common method for visualizing distributions is the histogram. A histogram is a special kind of bar chart: in a histogram, the range of the variable is divided into equally-sized “bins” and each bin is given a bar with a height that corresponds to the number of values in that bin.
 
@@ -94,12 +94,12 @@ Like functions you are familiar with from algebra, functions in R take a number 
 
 ```yaml
 type: NormalExercise
-key: 366e95f39b
+key: 3f56422d25
 xp: 100
 ```
 
 `@instructions`
-Now it's time to code
+
 
 `@hint`
 
