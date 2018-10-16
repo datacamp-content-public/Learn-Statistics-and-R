@@ -71,8 +71,6 @@ key: 8e6cbc6c1b
 xp: 100
 ```
 
-
-
 The most common method for visualizing distributions is the histogram. A histogram is a special kind of bar chart: in a histogram, the range of the variable is divided into equally-sized “bins” and each bin is given a bar with a height that corresponds to the number of values in that bin.
 
 In R, we will usually load our data sets from a file, rather than entering them by hand at the command prompt. (You can load a data set from a file on your computer, if you want to experiment with your own data, but for examples in this book you will load data sets from an online repository.) We’ll start with a fictional data set which represents daily sales at four locations of a restaurant chain located in various cities. This command loads this data set and gives it a name (we’ll call it store.sales).
