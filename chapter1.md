@@ -95,7 +95,7 @@ store.sales <- read.csv("https://bitbucket.org/biz-stats/data/raw/master/store.s
 ```yaml
 type: NormalExercise
 key: 4c6bb4bb32
-xp: 100
+xp: 50
 ```
 
 `@instructions`
@@ -129,4 +129,33 @@ store.sales
 `@sct`
 ```{r}
 You got it!
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 1b27a031a7
+xp: 50
+```
+
+`@instructions`
+No of observations
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+nrow(store.sales)
+```
+
+`@sct`
+```{r}
+You got it1
 ```
